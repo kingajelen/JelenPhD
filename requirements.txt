@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+jupyterlab
+xlrd
+openpyxl
+tables
+lmfit
+sklearn

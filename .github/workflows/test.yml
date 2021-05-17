@@ -36,8 +36,8 @@ jobs:
       - uses: "treebeardtech/nbmake-action@v0.2"
         with:
            path-output: .
-#           notebooks: |
-#             01_PreparingData.ipynb
+           notebooks: |
+             01_PreparingData.ipynb
 #             02_Fitting_LQmodel.ipynb
 #             03_Outliers.ipynb
 #             04_Distributions.ipynb

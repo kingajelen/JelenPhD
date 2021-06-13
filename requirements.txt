@@ -7,3 +7,10 @@ openpyxl
 tables
 lmfit
 sklearn
+pytrip98gui
+dicompyler-core
+corner
+statsmodels
+scikit_posthocs
+h5py
+scipy

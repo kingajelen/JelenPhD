@@ -1,5 +1,7 @@
 # JelenPhD
 Kinga Jelen PhD
+
+
 The dataset includes data from in vitro experiments on 11 cell lines: 
 V79-379A, V79-753B, DLD1, SQ20B, CI-1, C3H10T1/2, SCC25, HCT116, H184B5 F5-1M/10 and HF19 (folder „data”). 
 

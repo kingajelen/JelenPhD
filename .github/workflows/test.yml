@@ -38,7 +38,7 @@ jobs:
            path-output: .
            notebooks: |
              01_PreparingData.ipynb
-#             02_Fitting_LQmodel.ipynb
-#             03_Outliers.ipynb
-#             04_Distributions.ipynb
-#             05_SOBP.ipynb
+             02_Fitting_LQmodel.ipynb
+             02a_Wedenberg_q_validation.ipynb
+             02b_Mywork_q_validation.ipynb
+             03_Outliers.ipynb

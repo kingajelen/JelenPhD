@@ -2,16 +2,12 @@ numpy
 pandas
 matplotlib
 jupyterlab
-xlrd
-openpyxl
 tables
 lmfit
 sklearn
-pytrip98gui
-dicompyler-core
+pytrip98
 corner
 statsmodels
 scikit_posthocs
 h5py
 scipy
-

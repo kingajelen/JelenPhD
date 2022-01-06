@@ -46,3 +46,5 @@ jobs:
              04b_Verification_q_distributions.ipynb
              04c_Distributions_alfa_beta_q.ipynb
              05_Dose_distribution_in_SOBP.ipynb
+             06_DVH_pancreas.ipynb
+             07_DVH_ECLIPSE.ipynb

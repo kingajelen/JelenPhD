@@ -1,2 +1,4 @@
 data/plan1/* filter=lfs diff=lfs merge=lfs -text
 data/plan2/* filter=lfs diff=lfs merge=lfs -text
+data/plan3/* filter=lfs diff=lfs merge=lfs -text
+data/plan4/* filter=lfs diff=lfs merge=lfs -text
